@@ -20,6 +20,11 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+plugins:
+  - search:
+      lang:
+        - en
+        - ar 
 nav:
 - 'index.md'
 - 'contents.md'
