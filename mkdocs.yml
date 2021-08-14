@@ -1,0 +1,28 @@
+site_name: فیزیک محاسباتی
+
+theme: 
+  direction: rtl
+
+  name: material
+  font: 
+    text: vazir
+  palette:
+  
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+nav:
+- 'index.md'
+- 'contents.md'
+- 'فصل ۱ -    عنوان' : 'chapter01.md'
+
+
